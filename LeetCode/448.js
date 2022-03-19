@@ -1,4 +1,3 @@
-// leet code Q.448
 const findDisappearedNumbers = nums => {
   const answer = [];
   const count = Array(nums.length).fill(0);
